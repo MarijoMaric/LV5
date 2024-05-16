@@ -1,0 +1,14 @@
+C:\Users\Ricma\Desktop\RPPOON - labosi\lv5_Maric\bin\Debug\net7.0\lv5_Maric.exe
+C:\Users\Ricma\Desktop\RPPOON - labosi\lv5_Maric\bin\Debug\net7.0\lv5_Maric.deps.json
+C:\Users\Ricma\Desktop\RPPOON - labosi\lv5_Maric\bin\Debug\net7.0\lv5_Maric.runtimeconfig.json
+C:\Users\Ricma\Desktop\RPPOON - labosi\lv5_Maric\bin\Debug\net7.0\lv5_Maric.dll
+C:\Users\Ricma\Desktop\RPPOON - labosi\lv5_Maric\bin\Debug\net7.0\lv5_Maric.pdb
+C:\Users\Ricma\Desktop\RPPOON - labosi\lv5_Maric\obj\Debug\net7.0\lv5_Maric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricma\Desktop\RPPOON - labosi\lv5_Maric\obj\Debug\net7.0\lv5_Maric.AssemblyInfoInputs.cache
+C:\Users\Ricma\Desktop\RPPOON - labosi\lv5_Maric\obj\Debug\net7.0\lv5_Maric.AssemblyInfo.cs
+C:\Users\Ricma\Desktop\RPPOON - labosi\lv5_Maric\obj\Debug\net7.0\lv5_Maric.csproj.CoreCompileInputs.cache
+C:\Users\Ricma\Desktop\RPPOON - labosi\lv5_Maric\obj\Debug\net7.0\lv5_Maric.dll
+C:\Users\Ricma\Desktop\RPPOON - labosi\lv5_Maric\obj\Debug\net7.0\refint\lv5_Maric.dll
+C:\Users\Ricma\Desktop\RPPOON - labosi\lv5_Maric\obj\Debug\net7.0\lv5_Maric.pdb
+C:\Users\Ricma\Desktop\RPPOON - labosi\lv5_Maric\obj\Debug\net7.0\lv5_Maric.genruntimeconfig.cache
+C:\Users\Ricma\Desktop\RPPOON - labosi\lv5_Maric\obj\Debug\net7.0\ref\lv5_Maric.dll
