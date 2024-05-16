@@ -101,12 +101,29 @@ namespace lv5_Maric
             secondeNote.AddName("Fist one");
             secondeNote.AddName("Seconde one");
             
-
             firstNote.Show();
             Console.WriteLine();
             secondeNote.Show();
+        }
 
+        public static void Z7()
+        {
+            Notebook notebook = new Notebook(new DarkTheme());
+            ReminderNote firstNote = new ReminderNote("First Note", new DarkTheme());
 
+            notebook.AddNote(firstNote);
+            notebook.Display();
+
+            ReminderNote secondeNote = new ReminderNote("Seconde Note", new DarkTheme());
+
+            notebook.AddNote(secondeNote);
+            notebook.ChangeTheme(new LightTheme());
+            notebook.Display();
+
+            ReminderNote thirdNote= new ReminderNote("Third Note", new DarkTheme());
+
+            notebook.AddNote(thirdNote);
+            notebook.Display();
         }
     }
 }
